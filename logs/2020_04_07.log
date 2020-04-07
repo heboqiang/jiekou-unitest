@@ -1,0 +1,31 @@
+[2020-04-07 10:00:47,739] - logger.py] - INFO: ------登录失败用例：start!---------
+[2020-04-07 10:00:47,944] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 10:00:48,300] - logger.py] - INFO: ------登录失败用例：start!---------
+[2020-04-07 10:00:48,456] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 11:10:44,229] - logger.py] - INFO: ------登录失败用例：start!---------
+[2020-04-07 11:10:44,299] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 11:10:44,575] - logger.py] - INFO: ------登录失败用例：start!---------
+[2020-04-07 11:10:44,635] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 11:10:44,757] - logger.py] - INFO: ------登录失败用例：start!---------
+[2020-04-07 11:10:44,817] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 11:56:58,943] - logger.py] - INFO: ------测试post接口-直接请求：start!---------
+[2020-04-07 11:56:59,013] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 11:56:59,022] - logger.py] - INFO: ------测试post接口-参数化请求：start!---------
+[2020-04-07 13:44:04,607] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2020-04-07 13:44:04,725] - logger.py] - INFO: ================================== 测试结束 ==================================
+[2020-04-07 13:44:46,790] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2020-04-07 13:44:46,898] - logger.py] - INFO: ================================== 测试结束 ==================================
+[2020-04-07 13:45:39,571] - logger.py] - INFO: ------测试post接口-直接请求：start!---------
+[2020-04-07 13:45:39,674] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 13:45:39,682] - logger.py] - INFO: ------测试post接口-参数化请求：start!---------
+[2020-04-07 13:46:40,937] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2020-04-07 13:46:43,471] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2020-04-07 13:46:43,581] - logger.py] - INFO: ================================== 测试结束 ==================================
+[2020-04-07 13:58:20,819] - logger.py] - INFO: ================================== 测试开始 ==================================
+[2020-04-07 13:58:20,908] - logger.py] - INFO: ------测试post接口-直接请求：start!---------
+[2020-04-07 13:58:20,987] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 13:58:20,994] - logger.py] - INFO: ------测试post接口-参数化请求：start!---------
+[2020-04-07 13:58:21,172] - logger.py] - INFO: ------测试post接口-直接请求：start!---------
+[2020-04-07 13:58:21,231] - logger.py] - INFO: 获取请求结果：{"resultNumber":null,"id":null,"name":null,"num":170,"list":null,"status":null,"jpGoodRuleDTO":null,"mobile":null,"newMobile":null,"idNum":null,"inId":"ba46a6","inCode":null}
+[2020-04-07 13:58:21,243] - logger.py] - INFO: ------测试post接口-参数化请求：start!---------
+[2020-04-07 13:58:21,322] - logger.py] - INFO: ================================== 测试结束 ==================================
